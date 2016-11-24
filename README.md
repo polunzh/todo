@@ -16,3 +16,6 @@
 ## 计划
 
 - 这个周末阅读[vue api](https://cn.vuejs.org/v2/api/)
+
+### 有趣
+- [RESTful 接口调试分享利器](https://elemefe.github.io/restc/)

@@ -5,6 +5,7 @@
 ### 紧急
 - [HTMLCSS1](http://learn.shayhowe.com/html-css/)
 - [HTMLCSS2](http://learn.shayhowe.com/advanced-html-css/)
+- [express文档](http://expressjs.com/)
 - Markdown table生成，类似[这样](http://www.tablesgenerator.com/markdown_tables)
 - vuex, vue的状态管理组件
 - 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)

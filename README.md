@@ -2,13 +2,16 @@
 
 ## TODO
 
+### 进行中
+- [express文档](http://expressjs.com/)
+- 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)
+
 ### 紧急
+- [airbnb js规范](https://github.com/airbnb/javascript)
 - [HTMLCSS1](http://learn.shayhowe.com/html-css/)
 - [HTMLCSS2](http://learn.shayhowe.com/advanced-html-css/)
-- [express文档](http://expressjs.com/)
 - Markdown table生成，类似[这样](http://www.tablesgenerator.com/markdown_tables)
 - vuex, vue的状态管理组件
-- 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)
 
 ### 完成
 - <del>NoSQL数据结构设计</del>

@@ -7,6 +7,7 @@
 - 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)
 
 ### 紧急
+- Github repo 插件
 - [airbnb js规范](https://github.com/airbnb/javascript)
 - [HTMLCSS1](http://learn.shayhowe.com/html-css/)
 - [HTMLCSS2](http://learn.shayhowe.com/advanced-html-css/)

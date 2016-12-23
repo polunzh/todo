@@ -3,6 +3,7 @@
 ## TODO
 
 ### 进行中
+- [Vue演讲](http://www.infoq.com/cn/presentations/vue-2-progressive-front-end-solution)
 - [express文档](http://expressjs.com/)
 - 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)
 

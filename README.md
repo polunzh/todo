@@ -2,6 +2,9 @@
 
 ## TODO
 
+### 周末计划
+- [Vue演讲](http://www.infoq.com/cn/presentations/vue-2-progressive-front-end-solution)
+
 ### 进行中
 - [Vue演讲](http://www.infoq.com/cn/presentations/vue-2-progressive-front-end-solution)
 - [express文档](http://expressjs.com/)
@@ -19,6 +22,7 @@
 ### 完成
 - <del>NoSQL数据结构设计</del>
 - <del>百世快递，宏基附近</del>
+- <del>[Vue API](https://cn.vuejs.org/v2/api/)阅读</del>
 
 ### 长期
 博客阅读
@@ -27,7 +31,7 @@
 
 ## 计划
 
-- 这个周末阅读[vue api](https://cn.vuejs.org/v2/api/)
+
 
 ### 有趣
 - [RESTful 接口调试分享利器](https://elemefe.github.io/restc/)

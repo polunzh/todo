@@ -1,26 +1,14 @@
 # polunzh
 
-## TODO
-
-### 周末计划
-- [Vue演讲](http://www.infoq.com/cn/presentations/vue-2-progressive-front-end-solution)
-
 ### 进行中
 - 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)
 
 ### 紧急
 - [DocumentDB文档](http://azure.github.io/azure-documentdb-node/)
-- Github repo 插件
-- [airbnb js规范](https://github.com/airbnb/javascript)
 - [HTMLCSS1](http://learn.shayhowe.com/html-css/)
 - [HTMLCSS2](http://learn.shayhowe.com/advanced-html-css/)
 - Markdown table生成，类似[这样](http://www.tablesgenerator.com/markdown_tables)
 - vuex, vue的状态管理组件
-
-### 完成
-- <del>NoSQL数据结构设计</del>
-- <del>百世快递，宏基附近</del>
-- <del>[Vue API](https://cn.vuejs.org/v2/api/)阅读</del>
 
 ### 长期
 博客阅读

@@ -1,14 +1,9 @@
 # polunzh
 
 ### 进行中
+- [expressjs](https://github.com/expressjs/express)源码阅读
+- [lodash](https://github.com/lodash/lodash)源码阅读
 - 书，[CSS实战手册](https://about.ac/books/css-manual-4th/)
-
-### 紧急
-- [DocumentDB文档](http://azure.github.io/azure-documentdb-node/)
-- [HTMLCSS1](http://learn.shayhowe.com/html-css/)
-- [HTMLCSS2](http://learn.shayhowe.com/advanced-html-css/)
-- Markdown table生成，类似[这样](http://www.tablesgenerator.com/markdown_tables)
-- vuex, vue的状态管理组件
 
 ### 长期
 博客阅读
